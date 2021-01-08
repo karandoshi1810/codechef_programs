@@ -1,0 +1,47 @@
+After Contest_Hosted
+/*value=activityClassification(activitiyDefination);
+            switch(value){
+            case 1:
+
+                scanf("%d",&rank);
+                if(rank>20)
+                {
+                    laddu+=300;
+                }
+                else
+                {
+                    laddu+=(300+(20-rank));
+                }
+                rank=0;
+                break;
+            case 2:
+                laddu+=300;
+                break;
+            case 3:
+
+                scanf("%d",&bugSeverity);
+                laddu+=bugSeverity;
+                bugSeverity=0;
+                break;
+            case 4:
+                laddu+=50;
+                break;
+            }*/
+
+Activity Defination Function
+/*int activityClassification(char *activity)
+{
+    if(strcmp(activity,"CONTEST-WON")==0)
+    {
+        return 1;
+    }
+    else if(strcmp(activity,"TOP_CONTRIBUTOR")==0){
+        return 2;
+    }
+    else if(strcmp(activity,"BUG_FOUND")==0){
+        return 3;
+    }
+    else if(strcmp(activity,"CONTEST_HOSTED")==0){
+        return 4;
+    }
+}*/

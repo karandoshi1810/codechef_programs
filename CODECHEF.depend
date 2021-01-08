@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1595689417 source:e:\karan-ict\semester-5\codechef\chefs&steps.c
+	<stdio.h>
+
+1595696237 source:e:\karan-ict\semester-5\codechef\binaryconcatanation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1596214684 source:e:\karan-ict\semester-5\codechef\assignmentchecker.c
+	<stdio.h>
+	<string.h>
+
+1599837773 source:e:\karan-ict\semester-5\codechef\lapidromes_1.c
+	<stdio.h>
+	<string.h>
+
+1599854083 source:e:\karan-ict\semester-5\codechef\carvans.c
+	<stdio.h>
+
+1599977791 source:e:\karan-ict\semester-5\codechef\coin flip.c
+	<stdio.h>
+	<stdint-gcc.h>
+	<stdbool.h>
+
+1599981031 source:e:\karan-ict\semester-5\codechef\flip coin2.c
+	<stdio.h>
+
+1600701274 source:e:\karan-ict\semester-5\codechef\laddu.c
+	<stdio.h>
+	<string.h>
+
+1609869287 source:e:\karan-ict\codechef\penalty_shootout.cpp
+	<iostream>
+	<string.h>
+

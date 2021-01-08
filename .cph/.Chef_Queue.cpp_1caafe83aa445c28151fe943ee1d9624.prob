@@ -1,0 +1,1 @@
+{"name":"Local: Chef_Queue","url":"e:\\KARAN-ICT\\CODECHEF\\Chef_Queue.cpp","tests":[{"id":1610044064517,"input":"4 2\n1 2 1 2","output":"2"},{"id":1610130358251,"input":"10 3\n3 1 1 2 3 2 1 1 3 3","output":"32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KARAN-ICT\\CODECHEF\\Chef_Queue.cpp","group":"local","local":true}
